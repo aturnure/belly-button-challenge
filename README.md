@@ -19,6 +19,7 @@
   5. Display each key-value pair from the metadata JSON object somewhere on the page.
   6. Update all the plots when a new sample is selected.
   7. Deploy your app to a free static page hosting service, such as GitHub Pages.
+       - GitHub Pages link: https://aturnure.github.io/belly-button-challenge/
 
 # Resources
   Data: Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
